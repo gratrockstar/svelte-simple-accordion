@@ -5,7 +5,7 @@ A simple Accordion component for Svelte.
 ## Usage:
 
     <script>    
-    import { Accordion, AccordionItem } from 'svelte-simple-accordion';
+    import { Accordion, AccordionItem } from '@gratrockstar/svelte-simple-accordion';
     
     const items = [    
 	    { title: 'Item 1', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sagittis malesuada lorem, non finibus sapien rutrum sed. Curabitur eget dictum turpis, nec malesuada elit. Phasellus eu fringilla lacus. Suspendisse convallis mi sed felis consequat, ac varius nisl ullamcorper. Nullam faucibus mi at est ullamcorper ultrices. Ut et diam ut enim iaculis mollis quis non mauris. Phasellus odio metus, viverra et egestas vitae, hendrerit in erat. Donec vitae magna nec dolor tempor interdum scelerisque id nunc. Quisque faucibus lectus varius erat sollicitudin aliquet. Quisque id massa sed tellus tincidunt auctor. Praesent quis faucibus nunc. Fusce vel ipsum elit. Proin enim nunc, sagittis in cursus nec, molestie laoreet diam. Phasellus scelerisque lectus et condimentum efficitur. Vestibulum aliquam lorem vitae laoreet elementum. Fusce lorem urna, sagittis vel lacinia aliquet, consequat sed urna' },	    
