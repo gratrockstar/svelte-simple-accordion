@@ -1,6 +1,6 @@
 {
   "name": "@gratrockstar/svelte-simple-accordion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple accordion component for Svelte.",
   "license": "MIT",
   "author": "Garrett Baldwin",
